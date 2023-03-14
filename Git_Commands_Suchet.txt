@@ -4,3 +4,4 @@ git add
 git config --global user.name "mass mutual"
 git restore
 
+git pull
